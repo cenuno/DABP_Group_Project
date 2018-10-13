@@ -1,6 +1,19 @@
-# Data Analytics for Business Professionals Program
+# Data Analytics for Business Professionals Program (DABP) Advanced Analytics and Machine Learning Group Project
 
-## Advanced Analytics and Machine Learning Group Project
+*Fall 2018*
+
+-----------
+
+## Project Tree
+
+| **Folder Name** | **Description** |
+| :-------------: | :-------------: |
+| [`literature`](literature/) | This folder will store all relevant literature related to the project. |
+| [`raw_data`](raw_data/) | This folder will store the raw data files needed for our group project. |
+| [`src`](src/) | This will store all source code used for the project. |
+| [`write_data`](write_data/) | This folder will store all data files created from the `raw_data` files. |
+
+## Project Proposal
 
 ### Questions
 * What features influence the increase or decrease of corn acreage<sup>1</sup> over time?
